@@ -1,1 +1,1 @@
-web: python Monaser.py
+web: python3 Monaser.py
